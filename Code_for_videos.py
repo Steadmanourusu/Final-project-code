@@ -203,8 +203,6 @@ def floor_number(floor, coordinates):
         #cv2.imshow("OCR2", im)
         #cv2.imshow("threshold", thresh.copy)
 
-
-
         cv2.waitKey(0)
 
         #########################################################################################################################
