@@ -53,6 +53,9 @@ open_door = 'C:\\Users\\ourus\\Documents\\4th_Year_project\\open_door1.jpg'
 coordinates = (-1,-1)
 
 
+
+
+
 floor= SIX
 
 def floor_number(floor, coordinates):
